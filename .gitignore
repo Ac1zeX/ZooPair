@@ -2,15 +2,10 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/ZooPair/CopilotIndices/17.14.1204.46620
-/.vs/ZooPair/FileContentIndex
-/.vs/slnx.sqlite
-/.vs/ZooPair/v17/.wsuo
-/.vs/ZooPair/v17/DocumentLayout.backup.json
-/.vs/ZooPair/v17/DocumentLayout.json
-/.vs/slnx.sqlite-journal
-/.vs/VSWorkspaceState.json
-/.vs/ZOOO/FileContentIndex
-/.vs/ZOOO/v17
-/.vs/ZOOO/FileContentIndex
-/.vs/ZOOO/v17
+/.gitignore
+*.sqlite
+*.json
+/.vs/ZooPair/v17
+*.vsidx
+/.vs
+/.gitignore
